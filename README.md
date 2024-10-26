@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizm00&label=Profile%20views&color=0e75b6&style=flat" alt="fizm00" /> </p>
 
-- 🌱 I’m currently learning **React, Python, Mobile Development**
+- 🌱 I’m currently learning **fullstack web, Python, Mobile Development**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **himawanfirza21@gmail.com**
 
-- ⚡ Fun fact **I like chicken**
+- ⚡ Fun fact **I like seafood**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
