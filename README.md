@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://Fizm.id)
 <h1 align="center">Hi 👋, I'm Firza Himawan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizm00&label=Profile%20views&color=0e75b6&style=flat" alt="fizm00" /> </p>
