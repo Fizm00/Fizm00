@@ -79,7 +79,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Fizm00&theme=transparent" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Fizm00&theme=tokyonight" alt="GitHub Streak" /></a>
     </td>
     <td valign="middle">
       <img src="https://streak-stats.demolab.com/?user=fizm00&theme=tokyonight&hide_border=true" alt="GitHub streak" />
