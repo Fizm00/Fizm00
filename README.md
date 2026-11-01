@@ -79,7 +79,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fizm00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used languages" />
+      <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Most used languages" width="340" />
     </td>
     <td valign="middle">
       <img src="https://streak-stats.demolab.com/?user=fizm00&theme=tokyonight&hide_border=true" alt="GitHub streak" />
